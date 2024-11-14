@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "date": "2024-10-09",
+    "version": "v0.1.0",
+    "title": "Örnek Gönderi",
+    "categories": ["Oyun", "Veritabanı"],
+    "description": "Bu bir örnek gönderi",
+    "changes": [
+      { "text": "Örnek gönderi gönderildi", "type": "NEW_FEATURE", "spoiler": false },
+      { "text": "Örnek iyileştirme", "type": "IMPROVEMENT" },
+      { "text": "Örnek spoyler", "type": "NEW_FEATURE"}
+    ],
+    "images": [],
+    "developerNotes": "Bu bir örnek güncelleme gönderisidir.",
+    "commitInfo": {
+      "author": "rubidium",
+      "commitType": "feature",
+      "commitDate": "2024-10-09T14:30:00Z",
+      "commitHash": ""
+    }
+  },
+
+  {
+    "id": 2,
+    "date": "2024-10-09",
+    "version": "v0.1.1",
+    "title": "Örnek Gönderi",
+    "categories": ["Oyun", "Veritabanı"],
+    "description": "Bu bir örnek gönderi",
+    "changes": [
+      { "text": "Örnek gönderi gönderildi", "type": "NEW_FEATURE", "spoiler": false },
+      { "text": "Örnek iyileştirme", "type": "IMPROVEMENT" },
+      { "text": "Örnek spoyler", "type": "NEW_FEATURE"}
+    ],
+    "images": [],
+    "developerNotes": "Bu bir örnek güncelleme gönderisidir.",
+    "commitInfo": {
+      "author": "rubidium",
+      "commitType": "feature",
+      "commitDate": "2024-10-09T14:30:00Z",
+      "commitHash": ""
+    }
+  }
+]
